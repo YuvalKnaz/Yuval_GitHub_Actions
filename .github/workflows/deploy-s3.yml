@@ -8,7 +8,7 @@
 # with AWS — no secret access keys needed!
 # ============================================================
 
-# --- WORKFLOW NAME ---
+# --- WORKFLOW NAME ----
 # This is the display name shown in the GitHub Actions tab
 name: Deploy to S3 + CloudFront
 
